@@ -3,7 +3,7 @@
 
 ![]()
 ## Description
-
+JavaScriptQuiz is an interactive webpage that allows you to test your knowledge on javaScript. 
 ## Installation
 N/A
 
