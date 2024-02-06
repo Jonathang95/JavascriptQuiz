@@ -1,0 +1,84 @@
+/* Added background Image */
+body {
+    background-image:url(/Assets/images/1_LyZcwuLWv2FArOumCxobpA.png) ;
+    background-size: cover ;
+    font-family: 'Arial', sans-serif;
+}
+
+/* Styles quiz container */
+#quiz-container {
+    max-width: 800px;
+    margin: 50px auto;
+    background-color: rgb(12, 10, 10);
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Styles question container */
+#question-container {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+/* Styles options container */
+#options-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+}
+
+/* Styles options buttons and hover effect */
+button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: white;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+/* Adds button color transition */
+button:hover {
+    background-color: #d3c012;
+}
+
+/* Styles timer element */
+#timer {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+/* Styles initials form */
+#initials-form {
+    display: none;
+    margin-top: 20px;
+}
+
+/* Styles initials input */
+#initials-input {
+    width: 98%;
+    padding: 5px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+/* Styles start button and hover effect */
+#start-btn {
+    background-color: white;
+    color: black;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+/* Adds button color transition */
+#start-btn:hover {
+    background-color: #d3c012;
+}
