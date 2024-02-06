@@ -1,6 +1,6 @@
 /* Added background Image */
 body {
-    background-image:url(/Assets/images/Javascript.jpg.png) ;
+    background-image:url(/Assets/images/Javascript\ pic.jpg) ;
     background-size: cover ;
     font-family: 'Arial', sans-serif;
 }
