@@ -1,7 +1,7 @@
 # JavascriptQuiz
-# []()
+# [Github Link](https://jonathang95.github.io/JavascriptQuiz/)
 
-![]()
+![](/Assets/images/Screenshot%202024-02-09%20111715.png)
 ## Description
 JavaScriptQuiz is an interactive webpage that allows you to test your knowledge on javaScript. 
 ## Installation
