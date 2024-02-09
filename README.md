@@ -1,5 +1,5 @@
 # JavascriptQuiz
-# [Github Link](https://jonathang95.github.io/JavascriptQuiz/)
+# [Page Link](https://jonathang95.github.io/JavascriptQuiz/)
 
 ![](/Assets/images/Screenshot%202024-02-09%20111715.png)
 ## Description
